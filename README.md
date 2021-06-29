@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I am Lázaro 👋
 
-<!--
+
 **Lazaro84-alv/Lazaro84-alv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Lazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro84-alv)](https://github.com/Lazaro84-alv/github-readme-stats)
+
