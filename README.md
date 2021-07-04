@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lazaro-alves/)](https://www.linkedin.com/in/lazaro-alves/)
 
 ### About me
-I'm a backend and frontend developer
+I'm a full stack developer
 
 
 ![Lázaro GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro84-alv&theme=great-gatsby&show_icons=true)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro84-alv&layout=compact)](https://github.com/Lazaro84-alv/github-readme-stats)
