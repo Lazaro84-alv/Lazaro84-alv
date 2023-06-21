@@ -6,8 +6,7 @@
 
 ### About me
 I'm a full stack developer
-
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro84-alv&layout=compact)](https://github.com/Lazaro84-alv/github-readme-stats)
+![Lázaro GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro84-alv&theme=great-gatsby&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro84-alv&layout=compact)](https://github.com/Lazaro84-alv/github-readme-stats)
 
 
 
